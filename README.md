@@ -29,4 +29,4 @@ Uma API REST desenvolvida em **Java** com **Spring Boot** para gerenciamento de 
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/agendamento-service.git](https://github.com/SEU_USUARIO/agendamento-service.git)
+   git clone [https://github.com/cadutk/agendamento-service.git](https://github.com/cadutk/agendamento-service.git)
